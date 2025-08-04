@@ -23,7 +23,7 @@ I am analyzing over half a million unorganized sales records using advanced ETL 
 ## PROJECT 2: FINANCIAL ANALYSIS AND REPORTING
 **Project objective:**
 - Create detailed Profit and Loss (P&L) reports categorized by [Fiscal Year](https://github.com/ankurkatiyar167/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20Fiscal%20Years%20.pdf) and by [Fiscal Months](https://github.com/ankurkatiyar167/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20Months.pdf).
-- Produce P&L reports segmented by [Markets](https://github.com/ankurkatiyar167/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20Months.pdf).
+- Produce P&L reports segmented by [Markets](https://github.com/ankurkatiyar167/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf).
 
 **Key Achievements:**
 - Assessed financial performance in depth, enabling data-driven decision-making.
